@@ -1,1 +1,1 @@
-print ('My new rating')
+print ('New hello world!')
